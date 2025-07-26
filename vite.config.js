@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/walks-scraper-documentation/',
+  base: '/react-app-documentation/',
   plugins: [react()],
 })

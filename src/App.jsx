@@ -280,7 +280,7 @@ export default {
           <ul className="list-disc list-inside mb-4 pl-4">
             <li>The terminal will output a URL, usually <span className="font-mono text-sm bg-gray-200 px-1 rounded">`http://localhost:5173/`</span>.</li>
             <li>Open your web browser and navigate to this URL.</li>
-            <li>You should now see your fully styled "Ramblers Walks Scraper & API Project Documentation" with interactive sections!</li>
+            <li>You should now see your fully styled project documentation with interactive sections!</li>
             <li>To stop the server, go back to the terminal and press <span className="font-mono text-sm bg-gray-200 px-1 rounded">Ctrl+C</span>.</li>
           </ul>
         </DocSection>

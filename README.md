@@ -6,7 +6,7 @@ The documentation itself is built as a **React application**, with all the conte
 
 To see the full, interactive documentation and the result of this deployment process, please visit:
 
-[**https://rgrfr.github.io/walks-scraper-documentation/**](https://rgrfr.github.io/walks-scraper-documentation/)
+[**https://rgrfr.github.io/react-app-documentation/**](https://rgrfr.github.io/react-app-documentation/)
 
 ## **📚 What You'll Find Documented**
 
