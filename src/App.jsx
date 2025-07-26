@@ -103,7 +103,9 @@ const App = () => {
 
         <DocSection title="Introduction: What We'll Cover" defaultOpen={true}>
           <p className="mb-4">
-            This documentation guides you through the entire process of taking a React application from your local machine to a publicly hosted website on GitHub Pages. We'll cover everything from initial setup to troubleshooting common issues.
+            This documentation guides you through the entire process of taking a React application from your local machine to a publicly hosted website on GitHub Pages. 
+            You don't need a React application just yet as there's one here in the github code (App,jsx). Later you can ask an AI to generate a React application for you, for now you can use this one as a template.
+            We'll cover everything from initial setup to troubleshooting common issues.
           </p>
           <h3 className="text-lg font-semibold text-gray-800 mb-2">Prerequisites:</h3>
           <ul className="list-disc list-inside space-y-1 pl-4">
@@ -474,6 +476,7 @@ npx tailwindcss init -p`}
             <li>After `npm run deploy`, it can take a few minutes for GitHub Pages to process the new deployment. Be patient and refresh your live site.</li>
             <li>Ensure your `npm run deploy` command completed without errors in the terminal.</li>
             <li>Check your GitHub repository's `gh-pages` branch (on GitHub.com, go to <span className="font-mono text-sm bg-gray-200 px-1 rounded">`Code`</span> tab, then use the branch dropdown to select <span className="font-mono text-sm bg-gray-200 px-1 rounded">`gh-pages`</span>) to see if the latest files are there.</li>
+            <li>Remember that if you make changes in VSCode and sync them back to github you may need to rebuild the project with 'npm run build' and then do 'npm run deploy' to see your changes. </li>
           </ul>
         </DocSection>
 

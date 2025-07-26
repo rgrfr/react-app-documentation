@@ -1,6 +1,6 @@
-This repository serves as a comprehensive, interactive guide documenting the end-to-end process of setting up a development environment for a React application and deploying it to GitHub Pages.
+This repository serves as a comprehensive, interactive guide documenting the end-to-end process of setting up a development environment for a React application and deploying it to GitHub Pages. 
 
-The documentation itself is built as a **React application**, with all the content and interactive elements residing within the `src/App.jsx` file. This means you are looking at the *result* of the process, while simultaneously learning *how* to achieve it.
+The documentation itself is built as a **React application**, with all the content and interactive elements residing within the `src/App.jsx` file. This means you are looking at the *result* of the process, while simultaneously learning *how* to achieve it. You won't need a React app to get started as this package contains one (ie it's the documentation at the link below).
 
 ## **🚀 View the Live Documentation**
 
